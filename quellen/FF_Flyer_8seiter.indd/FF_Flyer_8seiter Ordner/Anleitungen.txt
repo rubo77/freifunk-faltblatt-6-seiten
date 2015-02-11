@@ -1,0 +1,107 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: FF_Flyer_8seiter.indd
+
+PACKDATUM: 01.02.2015 23:19 Uhr
+Erstellungsdatum 23.11.2014
+Änderungsdatum: 01.02.2015
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Auf Seite1, 2
+
+SCHRIFTARTEN
+21 Schriftart(en) verwendet; 0 fehlend, 1 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Aller-Bold; Typ: TrueType, Status: eingebettet
+- Name: Aller-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Bold; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Regular; Typ: OpenType TrueType, Status: OK
+- Name: MinionPro-Regular; Typ: OpenType Type 1, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 8 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 3 verwenden RGB-Farbraum
+Verknüpfungen/Bilder mit abweichenden Ebeneneinstellungen: 2
+
+
+DRUCKEINSTELLUNGEN
+PPD: Generic PostScript Printer, (ES3640G-587300)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 390 mm x 98 mm
+Papierabmessungen: 209,903 mm x 297,039 mm
+Format: Querformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. FF_Flyer_8seiter.indd; Typ: Adobe InDesign-Satzdatei; Größe: 6652K
+2. Aller_Std_Rg.ttf; Typ: Schriftartendatei; Größe: 94K
+3. Lato-Bold.ttf; Typ: Schriftartendatei; Größe: 118K
+4. Lato-Regular.ttf; Typ: Schriftartendatei; Größe: 117K
+5. MinionPro-Regular.otf; Typ: Schriftartendatei; Größe: 225K
