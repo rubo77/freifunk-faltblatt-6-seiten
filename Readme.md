@@ -5,11 +5,10 @@ Und Teile vom hamburger Flyer: [[http://www.vonbroeckel.de/download/flyer.ffhh.v
 INSTALL FONTS
 ----
 
-Die benötigten Fonts sind im quellen Ordner, die meissten sind schon in Linux corhanden, nur der Minionpro muss noch angelegt werden:
+Die benötigten Fonts sind im quellen Ordner, die sind schon alle in Linux vorhanden ausser dem Minionpro, der muss noch angelegt werden mit:
 
-    cd quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/
-	sudo mkdir /usr/share/fonts/truetype/minionpro
-	sudo cp MinionPro-Regular.otf /usr/share/fonts/truetype/minionpro/
+	sudo mkdir -p ~/.fonts/truetype/minionpro
+	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
 
 Dann kann die `.sla` Scribus Datei weiter bearbeitet werden.
 
