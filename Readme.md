@@ -2,7 +2,20 @@ gekürzter Text aus dem Möhne Flyer:
  [[https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0]]
 Und Teile vom hamburger Flyer: [[http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf]]
 
+INSTALL FONTS
 ----
+
+Die benötigten Fonts sind im quellen Ordner, die meissten sind schon in Linux corhanden, nur der Minionpro muss noch angelegt werden:
+
+    cd quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/
+	sudo mkdir /usr/share/fonts/truetype/minionpro
+	sudo cp MinionPro-Regular.otf /usr/share/fonts/truetype/minionpro/
+
+Dann kann die `.sla` Scribus Datei weiter bearbeitet werden.
+
+
+# Neuer Text:
+
 
 Untere Reihe
 ---
