@@ -1,6 +1,8 @@
-gekürzter Text aus dem Möhne Flyer: 
- [[https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0]]
-Und Teile vom hamburger Flyer: [[http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf]]
+gekürzter Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
+
+ - https://forum.freifunk.net/t/pocket-flyer-8-seiter-jetzt-auf-betterplace-spenden/1005 
+ - https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0
+ - Und Teile vom hamburger Flyer: http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf
 
 INSTALL FONTS
 ----
@@ -123,4 +125,4 @@ verfügbaren Bandbreite
 
 **Abschnitt 4 (Front)**
 ---
-wirn an die COMMUNITY angepasst mit Logo, etc
+wird an die COMMUNITY angepasst mit Logo, etc
