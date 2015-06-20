@@ -69,7 +69,7 @@ Eﬀekt: Die Benutzer Ihres Freifunk-Netzes surfen nicht mit Ihrer
 Identität. So sind Sie mit Ihrem Freifunk-Router nicht der Anbieter.  
 Sie haften nicht für für das Handeln der Nutzer!
 
-**Abschnitt 8:**
+**Abschnitt 8: (bei 6 Abschnitten Obere Reihe)** 
 ---
 **Freifunk Netz vergrößern**
 
@@ -97,7 +97,7 @@ Obere Reihe
 (Dömäne in Freifunk-COMMUNITY) Domäne im Freifunk COMMUNITY e.V.  
 (freifunk-COMMUNITY e.V.) Freifunk COMMUNITY e.V.
 
-**Abschnitt 2 (hinten innen)** 
+**Abschnitt 2 (hinten innen - fällt weg bei 6 Abschnitten)** 
 ---
 **Häufige Fragen**
 
@@ -113,7 +113,7 @@ Nein, der Freifunk-Router nutzt nur einen Teil der
 verfügbaren Bandbreite
 
 
-**Abschnitt 3 (hinten innen)**
+**Abschnitt 3 (hinten innen - fällt weg bei 6 Abschnitten)**
 ---
 **Warum Freifunk?**
 
