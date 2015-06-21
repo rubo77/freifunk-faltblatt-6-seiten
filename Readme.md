@@ -34,10 +34,9 @@ digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
 
-Freifunk-Router mit Strom versorgen und  
-ans Netz anschließen.   
-Jeder kann einen Freifunk-Router  
-aufstellen. 
+Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite ist, an dein Internet anschließen. 
+Jeder kann einen Freifunk-Router aufstellen. 
+
 
 **Abschnitt 6:**
 ---
