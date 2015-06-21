@@ -1,4 +1,4 @@
-gekürzter Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
+Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
 
  - https://forum.freifunk.net/t/pocket-flyer-8-seiter-jetzt-auf-betterplace-spenden/1005 
  - https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0
@@ -7,21 +7,58 @@ gekürzter Text aus dem Möhne Flyer, der hier veröffentlicht wurde:
 INSTALL FONTS
 ----
 
-Die benötigten Fonts sind im quellen Ordner, die sind schon alle in Linux vorhanden ausser dem Minionpro, der muss noch angelegt werden mit:
+Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
 
 	sudo mkdir -p ~/.fonts/truetype/minionpro
 	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
 
-Dann kann die `.sla` Scribus Datei weiter bearbeitet werden.
+Scribus 1.5 nötig, dies ist unter debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss.
+Dann kann die `.sla` Scribus Datei `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla` bearbeitet werden.
 
 
 # Neuer Text:
 
+Obere Reihe
+----
+
+**Abschnitt 1 (hinten innen)** 
+---
+**Häufige Fragen**
+
+**Ist das sicher für mich?**
+
+Ja! Der Datenverkehr aus dem Freifunk-Netz ist   
+vollständig von dem eigenen Netz bzw. Computer   
+getrennt.
+
+**Habe ich Nachteile dadurch?**
+
+Nein, der Freifunk-Router nutzt nur einen Teil der   
+verfügbaren Bandbreite
+
+**Kosten?**
+
+Nur ca. 2 € im Jahr für Strom.
+
+**Abschnitt 2: (Rückseite)**
+---
+**Mitmachen - Austauschen**
+
+* Webseite      http://kiel.freifunk.net/
+* Online Chat   auf unserer Webseite!
+* Mail          freifunk@in-kiel.de
+* Twitter       ff_kiel
+
+**Abschnitt 3 (Front)**
+---
+wird an die COMMUNITY angepasst mit Logo, etc. Schriftsatz: Alternate Gothic 2
+
+---
 
 Untere Reihe
 ---
 
-**Abschnitt 5: (erste Seite innen)**
+**Abschnitt 4: (erste Seite innen)**
 ---
 **„Freies Internet überall und für Alle“**
 
@@ -38,37 +75,39 @@ Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite i
 Jeder kann einen Freifunk-Router aufstellen. 
 
 
-**Abschnitt 6:**
+**Abschnitt 5:**
 ---
 **Router für 15 €**
 
 1. Freifunk Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
-2. und spielt die Freifunk-Software auf. (Anleitungen dazu ...)
+2. Freifunk-Software aufspielen (Anleitungen dazu ...)
 3. Freifunk-Router mit privatem Router verbinden.
-4. Freifunk-Router dann möglichst in Fensternähe aufstellen!
+4. Freifunk-Router aufstellen (möglichst in Fensternähe)
 
 WLAN wird für jeden freigegeben!
 
 untere Reihe:
 
-  * Privater Router mit Internetanschluss 
+  * Privater Internetanschluss 
   * Freifunk-Router
   * Fenster
 
-**Abschnitt 7:**
+**Abschnitt 6:**
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Gäste, die über Ihren Freifunk-Router ins Internet gehen,   
-werden legal per VPN-Tunnel durchs Freifunk-Netz geleitet:
+Gäste, die über deinen Freifunk-Router ins Internet gehen, 
+werden ganz legal per Verschlüsselungs-Tunnel (VPN) durchs Freifunk-Netz geleitet:
     
 -- Schaubild --
 
-Eﬀekt: Die Benutzer Ihres Freifunk-Netzes surfen nicht mit Ihrer  
-Identität. So sind Sie mit Ihrem Freifunk-Router nicht der Anbieter.  
-Sie haften nicht für für das Handeln der Nutzer!
+Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität, 
+also bist du mit deinem Freifunk-Router nicht der Anbieter und somit 
 
-**Abschnitt 8: (bei 6 Abschnitten Obere Reihe)** 
+
+---
+
+*Alter Abschnitt 8: (fiel weg bei 6 Abschnitten)*
 ---
 **Freifunk Netz vergrößern**
 
@@ -86,33 +125,8 @@ erzählen Sie es Ihren Freunden und Bekannten!
 
 Ihr Haus / Ihr nächster Nachbar
 
-----
 
-Obere Reihe
-----
-
-**Abschnitt 1: (Rückseite)**
----
-(Dömäne in Freifunk-COMMUNITY) Domäne im Freifunk COMMUNITY e.V.  
-(freifunk-COMMUNITY e.V.) Freifunk COMMUNITY e.V.
-
-**Abschnitt 2 (hinten innen - fällt weg bei 6 Abschnitten)** 
----
-**Häufige Fragen**
-
-**Ist das sicher für mich?**
-
-Ja! Der Datenverkehr aus dem Freifunk-Netz ist   
-vollständig von dem eigenen Netz bzw. Computer   
-getrennt.
-
-**Habe ich Nachteile dadurch?**
-
-Nein, der Freifunk-Router nutzt nur einen Teil der   
-verfügbaren Bandbreite
-
-
-**Abschnitt 3 (hinten innen - fällt weg bei 6 Abschnitten)**
+*Alter Abschnitt 3 (hinten innen - fiel weg bei 6 Abschnitten)*
 ---
 **Warum Freifunk?**
 
@@ -121,7 +135,3 @@ verfügbaren Bandbreite
   * Soziale Einrichtungen können profitieren.  
   * schafft Gemeinschaft  
   * Freifunk auch dann,wenn der Anbieter streikt
-
-**Abschnitt 4 (Front)**
----
-wird an die COMMUNITY angepasst mit Logo, etc
