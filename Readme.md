@@ -26,19 +26,15 @@ Obere Reihe
 **Häufige Fragen**
 
 **Ist das sicher für mich?**
-
 Ja! Der Datenverkehr aus dem Freifunk-Netz ist   
 vollständig von dem eigenen Netz bzw. Computer   
 getrennt.
 
-**Habe ich Nachteile dadurch?**
+**Ändert sich die Geschwindigkeit meines Anschlusses?**
+Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
 
-Nein, der Freifunk-Router nutzt nur einen Teil der   
-verfügbaren Bandbreite
-
-**Kosten?**
-
-Nur ca. 2 € im Jahr für Strom.
+**Wie günstig ist es mitzumachen?**
+Die Anschaffung und ca. 3 € im Jahr für Strom.
 
 **Abschnitt 2: (Rückseite)**
 ---
@@ -47,7 +43,7 @@ Nur ca. 2 € im Jahr für Strom.
 * Webseite      http://kiel.freifunk.net/
 * Online Chat   auf unserer Webseite!
 * Mail          freifunk@in-kiel.de
-* Twitter       ff_kiel
+* Twitter       @ff_kiel
 
 **Abschnitt 3 (Front)**
 ---
@@ -60,19 +56,16 @@ Untere Reihe
 
 **Abschnitt 4: (erste Seite innen)**
 ---
-**„Freies Internet überall und für Alle“**
+**„Freies Netz überall und für Alle“**
 
 **Was bietet das Freifunk-Netz?**
+Freifunk ermöglicht jedem freie digitale Kommu­nikation über WLAN. Freifunk ist dezentral und kann von jedem Ort aus gestartet werden.
 
-Freifunk bietet unkomplizierten Internetzugang    
-über WLAN. Kostenfrei und ohne Registrierung.  
-Freifunk ist eine Geste der Gastfreundschaft, ein  
-digitales Glas Wasser für jeden.   
+**Gibt es über Freifunk Internet?**
+Freifunk stellt eine Grundversorgung an Internet bereit. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
-
-Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite ist, an dein Internet anschließen. 
-Jeder kann einen Freifunk-Router aufstellen. 
+Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite ist, an dein Internet anschließen. Jeder kann einen Freifunk-Router aufstellen. 
 
 
 **Abschnitt 5:**
@@ -96,13 +89,11 @@ untere Reihe:
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Gäste, die über deinen Freifunk-Router ins Internet gehen, 
-werden ganz legal per Verschlüsselungs-Tunnel (VPN) durchs Freifunk-Netz geleitet:
+Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal per Verschlüsselungs-Tunnel (VPN) durchs Freifunk-Netz geleitet:
     
 -- Schaubild --
 
-Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität, 
-also bist du mit deinem Freifunk-Router nicht der Anbieter und somit 
+Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Also bist du mit deinem Freifunk-Router nicht der Anbieter und haftest auch nicht für die Daten der anderen!
 
 
 ---
