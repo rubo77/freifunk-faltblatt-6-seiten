@@ -1,11 +1,17 @@
-Für die Bearbeitung ist Scribus 1.5 nötig (benutze Version: 1.5.1), dies ist unter debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
+Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+
+Um das Layout anzupassen muss nur der Titel geändert werden und die Rückseite. Alle anderen Seiten sind Community-unspezifish und können so bleiben wie sie sind.
+
+Für die Bearbeitung ist **Scribus 1.5** nötig (hier benutze Version: 1.5.1), dies ist unter Debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
 
 Mit Scribus kann die Datei `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla` bearbeitet werden.
 
-Im Ordner exports ist eine svg version, die man z.B. mit Inkskape weiterbearbeiten kann.
+Im Ordner exports ist unter anderem eine svg version, die man z.B. mit Inkskape weiterbearbeiten kann.
 
 
 # Drucken
+
+Das Layout ist ursprünglich angelegt worden für Flyer-Alarm, aber noch nicht getestet, ob diese das korrekt verarbeiten können (das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner).
 
 Wenn du den Flyer selbst drucken willst (ohne Duplex), dann kannst du einfach das pdf `flyer-6-seiten_scribus1.5/flyer_6_seiten_rueckseite_gedreht.pdf` benutzen, dabei kann man die einseitig bedruckten Blätter so gedreht wieder einlegen, dass das erneute Bedrucken jeweils die passende Hälfte ergänzt.
 
