@@ -1,19 +1,26 @@
+Für die Bearbeitung ist Scribus 1.5 nötig (benutze Version: 1.5.1), dies ist unter debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
+
+Mit Scribus kann die Datei `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla` bearbeitet werden.
+
+Im Ordner exports ist eine svg version, die man z.B. mit Inkskape weiterbearbeiten kann.
+
+
+# Drucken
+
+Wenn du den Flyer selbst drucken willst (ohne Duplex), dann kannst du einfach das pdf `flyer-6-seiten_scribus1.5/flyer_6_seiten_rueckseite_gedreht.pdf` benutzen, dabei kann man die einseitig bedruckten Blätter so gedreht wieder einlegen, dass das erneute Bedrucken jeweils die passende Hälfte ergänzt.
+
 Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
 
  - https://forum.freifunk.net/t/pocket-flyer-8-seiter-jetzt-auf-betterplace-spenden/1005 
  - https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0
  - Und Teile vom hamburger Flyer: http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf
 
-INSTALL FONTS
-----
+# INSTALL FONTS
 
 Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
 
 	sudo mkdir -p ~/.fonts/truetype/minionpro
 	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
-
-Scribus 1.5 nötig, dies ist unter debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss.
-Dann kann die `.sla` Scribus Datei `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla` bearbeitet werden.
 
 
 # Neuer Text:
@@ -34,7 +41,7 @@ getrennt.
 Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
 
 **Wie günstig ist es mitzumachen?**
-Wie ein Kinobesuch mit Popcorn: Die Anschaffungs­kosten für den Freifunk-Router plus ca. 3 € im Jahr für Strom.
+Wie ein Kinobesuch mit Popcorn: Die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 3 € im Jahr für Strom.
 
 **Abschnitt 2: (Rückseite)**
 ---
@@ -126,3 +133,4 @@ Ihr Haus / Ihr nächster Nachbar
   * Soziale Einrichtungen können profitieren.  
   * schafft Gemeinschaft  
   * Freifunk auch dann,wenn der Anbieter streikt
+  
