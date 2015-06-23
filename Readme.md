@@ -34,7 +34,7 @@ getrennt.
 Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
 
 **Wie günstig ist es mitzumachen?**
-Die Anschaffung und ca. 3 € im Jahr für Strom.
+Wie ein Kinobesuch mit Popcorn: Die Anschaffungs­kosten für den Freifunk-Router plus ca. 3 € im Jahr für Strom.
 
 **Abschnitt 2: (Rückseite)**
 ---
@@ -56,7 +56,7 @@ Untere Reihe
 
 **Abschnitt 4: (erste Seite innen)**
 ---
-**„Freies Netz überall und für Alle“**
+**„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
 Freifunk ermöglicht jedem freie digitale Kommu­nikation über WLAN. Freifunk ist dezentral und kann von jedem Ort aus gestartet werden.
@@ -77,7 +77,7 @@ Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite i
 3. Freifunk-Router mit privatem Router verbinden.
 4. Freifunk-Router aufstellen (möglichst in Fensternähe)
 
-WLAN wird für jeden freigegeben!
+WLAN wird für jeden ohne Störerhaftung freigegeben!
 
 untere Reihe:
 
