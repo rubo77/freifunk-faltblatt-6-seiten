@@ -72,13 +72,10 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freifunk ermöglicht jedem freie digitale Kommu­nikation über WLAN. Freifunk ist dezentral und kann von jedem Ort aus gestartet werden.
-
-**Gibt es über Freifunk Internet?**
-Freifunk stellt eine Grundversorgung an Internet bereit. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
+Freie digitale Kommu­nikation! Dezentralität! Ein Bürgernetz, und jeder kann es erweitern. Über deinen Internet­anschluss verbunden kannst du der Öffentlichkeit eine **Grundversorgung an Internet** zur Verfügung zu stellen. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
-Freifunk-Router mit Strom versorgen und falls noch kein Freifunk in Reichweite ist, an dein Internet anschließen. Jeder kann einen Freifunk-Router aufstellen. 
+Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du ihn über dein Internet anschließen. 
 
 
 **Abschnitt 5:**

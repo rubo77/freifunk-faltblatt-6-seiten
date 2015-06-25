@@ -1,3 +1,9 @@
+0.4
+* Text „Freies Netz überall und für alle“
+* Wlan wird johne Störerhaftung.. enger zusammen
+* Router hinterm Fenster kleiner und kleine Router ausserhalb
+
+0.3
 * Texte bearbeitet: 
  * "wobei Du selbst bestimmst, wieviel Du zur Verfügung stellst"
  * ca 3 €
