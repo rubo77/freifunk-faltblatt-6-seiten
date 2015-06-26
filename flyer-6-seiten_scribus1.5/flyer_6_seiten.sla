@@ -80,7 +80,7 @@
         <LAYERS NUMMER="4" LEVEL="4" NAME="Frontseite" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="5" LEVEL="5" NAME="Himmel vorn" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
         <LAYERS NUMMER="6" LEVEL="6" NAME="pfalzstriche" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="0.5" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
-        <LAYERS NUMMER="7" LEVEL="7" NAME="hafte ich Textebene" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="7" LEVEL="7" NAME="hafte ich Textebene" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0012598425197" markOffset="0" BleedTop="2.83464566929134" BleedLeft="2.83464566929134" BleedRight="2.83464566929134" BleedBottom="2.83464566929134" printer="Canon-MX720-series" filename="" separationName="Alle" printerCommand="">
             <Separation Name="Cyan"/>
             <Separation Name="Magenta"/>
@@ -144,7 +144,7 @@
         <PAGEOBJECT XPOS="102.835275590551" YPOS="346.300157480315" OwnPage="1" ItemID="980140752" PTYPE="4" WIDTH="833.385826771654" HEIGHT="277.795275590551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Innen" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L833.386 0 L833.386 277.795 L0 277.795 L0 0 Z" copath="M0 0 L833.386 0 L833.386 277.795 L0 277.795 L0 0 Z" gXpos="102.835275590551" gYpos="22.835905511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="384.034645669291" YPOS="412.969448818898" OwnPage="1" ItemID="980937552" PTYPE="2" WIDTH="290.965354330709" HEIGHT="257.949842519685" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="wieEsVorn" LOCALSCX="0.240802675585284" LOCALSCY="0.240802675585284" LOCALX="20.6200131233605" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="wie_es_funktioniert.png" PRFILE="sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="0" path="M0 0 L290.965 0 L290.965 257.95 L0 257.95 L0 0 Z" copath="M0 0 L290.965 0 L290.965 257.95 L0 257.95 L0 0 Z" ImageRes="2" gXpos="384.034645669291" gYpos="412.969448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="384.034645669291" YPOS="412.969448818898" OwnPage="1" ItemID="980937552" PTYPE="2" WIDTH="273.465354330709" HEIGHT="213.96062992126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="wieEsVorn" LOCALSCX="0.240802675585284" LOCALSCY="0.240802675585284" LOCALX="20.6200131233605" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="wie_es_funktioniert.png" PRFILE="sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="0" path="M0 0 L273.465 0 L273.465 213.961 L0 213.961 L0 0 Z" copath="M0 0 L273.465 0 L273.465 213.961 L0 213.961 L0 0 Z" ImageRes="2" gXpos="384.034645669291" gYpos="412.969448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="661.260472440945" YPOS="346.300157480315" OwnPage="1" ItemID="980919120" PTYPE="4" WIDTH="274.96062992126" HEIGHT="277.795275590551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" copath="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" gXpos="661.260472440945" gYpos="22.835905511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -164,14 +164,14 @@
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CPARENT="Default Character Style" FONT="Lato Bold" CH="Fazit:"/>
-            <ITEXT CPARENT="Default Character Style" CH=" Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Also bist du mit deinem Freifunk-Router nicht der Anbieter und haftest auch nicht für die Daten der anderen!"/>
+            <ITEXT CPARENT="Default Character Style" CH=" Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Freifunk-Router vermieden."/>
             <trail PARENT="Default Paragraph Style"/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="334.96157480315" OwnPage="1" ItemID="981088712" PTYPE="4" WIDTH="274.96062992126" HEIGHT="273.464566929134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Kopie von TextFreies" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESPMode="1" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="14.1732283464567" TEXTRA="42.5196850393701" BEXTRA="14.1732283464567" REXTRA="11.3385826771654" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 273.465 L0 273.465 L0 0 Z" copath="M0 0 L274.961 0 L274.961 273.465 L0 273.465 L0 0 Z" gXpos="100.00062992126" gYpos="334.96157480315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CPARENT="margenta-Zeichenstil" CH="Was ermöglicht das Freifunk-Netz?"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Freie digitale Kommu­­nikation! Dezentralität! Ein unabhängiges Bürgernetz, und jeder kann es erweitern. Über deinen Inter"/>
+            <ITEXT CH="Freie digitale Kommu­­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erweitern. Über deinen Inter"/>
             <ITEXT FONT="Lato Regular" CH="net­­anschluss verbunden kannst du der Öffentl"/>
             <ITEXT CH="ichkeit eine "/>
             <ITEXT FONT="Lato Bold" CH="Grundversorgung an Internet"/>
@@ -187,11 +187,8 @@
             <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="403.307716535432" YPOS="4.64661417322932" OwnPage="0" ItemID="981150880" PTYPE="4" WIDTH="274.96062992126" HEIGHT="277.795275590551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Kopie von TextFreies (3)" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESPMode="1" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="14.1732283464567" TEXTRA="42.5196850393701" BEXTRA="14.1732283464567" REXTRA="14.1732283464567" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" copath="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" gXpos="403.307716535432" gYpos="4.64661417322932" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CPARENT="headline-Zeichenstil" CH="Mitmachen - Austauschen"/>
+            <ITEXT CPARENT="headline-Zeichenstil" CH="Mitmachen – Austauschen"/>
             <para PARENT="Default Paragraph Style"/>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="377.795905511811" YPOS="22.835905511811" OwnPage="0" ItemID="981144448" PTYPE="4" WIDTH="277.795275590551" HEIGHT="277.795275590551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L277.795 0 L277.795 277.795 L0 277.795 L0 0 Z" copath="M0 0 L277.795 0 L277.795 277.795 L0 277.795 L0 0 Z" gXpos="377.795905511811" gYpos="22.835905511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="390.835952772983" YPOS="142.286233922366" OwnPage="0" ItemID="981275704" PTYPE="2" WIDTH="232.676694643034" HEIGHT="148.292613385827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0775588982143447" LOCALSCY="0.0775588982143447" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="ffki-logo.png" PRFILE="sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="0" path="M0 0 L232.677 0 L232.677 148.293 L0 148.293 L0 0 Z" copath="M0 0 L232.677 0 L232.677 148.293 L0 148.293 L0 0 Z" ImageRes="2" gXpos="390.835952772983" gYpos="142.286233922366" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
@@ -203,7 +200,7 @@
             <ITEXT CPARENT="headline-Zeichenstil" CH="Wie kann ich mitmachen?"/>
             <para PARENT="Default Paragraph Style"/>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="682.869059165858" YPOS="450.910862806795" OwnPage="1" ItemID="981429608" PTYPE="2" WIDTH="227.464814814815" HEIGHT="90.5833333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="BildHafteIch" LOCALSCX="0.117552875873289" LOCALSCY="0.117552875873289" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="hafte_ich_infografik.png" PRFILE="sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="0" path="M0 0 L227.465 0 L227.465 90.5833 L0 90.5833 L0 0 Z" copath="M0 0 L227.465 0 L227.465 90.5833 L0 90.5833 L0 0 Z" ImageRes="0" gXpos="682.869059165858" gYpos="450.910862806795" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="674.5" YPOS="446.64535433071" OwnPage="1" ItemID="981429608" PTYPE="2" WIDTH="252.217165354331" HEIGHT="104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="BildHafteIch" LOCALSCX="0.130344788296812" LOCALSCY="0.130344788296812" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="hafte_ich_infografik.png" PRFILE="sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="0" path="M0 0 L252.217 0 L252.217 104 L0 104 L0 0 Z" copath="M0 0 L252.217 0 L252.217 104 L0 104 L0 0 Z" ImageRes="0" gXpos="674.5" gYpos="446.64535433071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="100.00062992126" YPOS="4.64661417322932" OwnPage="0" ItemID="981438768" PTYPE="4" WIDTH="274.96062992126" HEIGHT="277.795275590551" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Kopie von TextFreies (2)" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" LINESPMode="1" ISIZE="11" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="14.1732283464567" TEXTRA="42.5196850393701" BEXTRA="14.1732283464567" REXTRA="14.1732283464567" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" copath="M0 0 L274.961 0 L274.961 277.795 L0 277.795 L0 0 Z" gXpos="100.00062992126" gYpos="4.64661417322932" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -218,16 +215,16 @@
             <ITEXT CH="getrennt."/>
             <para PARENT="Default Paragraph Style"/>
             <para LINESPMode="1"/>
-            <ITEXT CPARENT="margenta-Zeichenstil" CH="Ändert sich die Geschwindigkeit meines Anschlusses?"/>
+            <ITEXT CPARENT="margenta-Zeichenstil" CH="Kann ich meinen Anschluss weiter nutzen?"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wie viel du zur Verfügung stellst. "/>
+            <ITEXT CH="Ja, der Freifunk-Router nutzt nur einen einstell­­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wie viel du zur Verfügung stellst. "/>
             <para/>
             <para/>
             <ITEXT CPARENT="margenta-Zeichenstil" CH="Wie günstig ist es mitzumachen?"/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­­fung des Freifunk-Routers plus ca."/>
             <para/>
-            <ITEXT CH="3 € im Jahr für Strom."/>
+            <ITEXT CH="4 € im Jahr für Strom."/>
             <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="93.4809448818899" YPOS="372.166614173228" OwnPage="1" ItemID="981380896" PTYPE="6" WIDTH="42.5197" HEIGHT="852.094" FRTYPE="0" CLIPEDIT="1" GRTYP="6" ROT="-90" PWIDTH="1" PLINEART="1" path="M0 0 L42.5197 0 L42.5197 852.094 L0 852.094 L0 0 Z" copath="M0 0 L42.5197 0 L42.5197 852.094 L0 852.094 L0 0 Z" gXpos="93.4809448818899" gYpos="372.166614173228" gWidth="0" gHeight="0" GRSTARTX="0" GRSTARTY="426.063617958957" GRENDX="42.5196534640765" GRENDY="426.063617958957" GRFOCALX="0" GRFOCALY="0" GRSCALE="1" GRSKEW="0" GRExt="3" LAYER="0">
@@ -343,7 +340,7 @@
             <trail/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="660.545454545454" YPOS="286.008990694346" OwnPage="0" ItemID="983087528" PTYPE="4" WIDTH="13.6181818181819" HEIGHT="9.90010021474529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" ISIZE="5" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L13.6182 0 L13.6182 9.9001 L0 9.9001 L0 0 Z" copath="M0 0 L13.6182 0 L13.6182 9.9001 L0 9.9001 L0 0 Z" gXpos="660.545454545454" gYpos="286.008990694346" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="6" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="5" CH="v6"/>
+            <ITEXT FONTSIZE="5" CH="7.0"/>
             <trail PARENT="Default Paragraph Style"/>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="681.669921259843" YPOS="514.89874015748" OwnPage="1" ItemID="983096576" PTYPE="4" WIDTH="28.6299212598425" HEIGHT="10.134645669291" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L28.6299 0 L28.6299 10.1346 L0 10.1346 L0 0 Z" copath="M0 0 L28.6299 0 L28.6299 10.1346 L0 10.1346 L0 0 Z" gXpos="681.669921259843" gYpos="514.89874015748" gWidth="0" gHeight="0" ALIGN="2" LAYER="7" NEXTITEM="-1" BACKITEM="-1">
@@ -377,7 +374,7 @@
             <ITEXT CPARENT="klein für weissen Hintergrund" CH="Router "/>
             <trail PARENT="Default Paragraph Style" ALIGN="2"/>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="418.2" YPOS="68.6453543307096" OwnPage="0" ItemID="985070392" PTYPE="4" WIDTH="224.4" HEIGHT="71.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.4 0 L224.4 71.4 L0 71.4 L0 0 Z" copath="M0 0 L224.4 0 L224.4 71.4 L0 71.4 L0 0 Z" gXpos="418.2" gYpos="68.6453543307096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="418.2" YPOS="71.6453543307096" OwnPage="0" ItemID="985070392" PTYPE="4" WIDTH="224.4" HEIGHT="68.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.4 0 L224.4 68.4 L0 68.4 L0 0 Z" copath="M0 0 L224.4 0 L224.4 68.4 L0 68.4 L0 0 Z" gXpos="418.2" gYpos="71.6453543307096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Lato Bold" CH="Webseite"/>
             <tab FONT="Lato Bold"/>
             <ITEXT CH="http://kiel.freifunk.net"/>

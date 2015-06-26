@@ -55,8 +55,8 @@ Ja! Der Datenverkehr aus dem Freifunk-Netz ist
 vollständig von dem eigenen Netz bzw. Computer   
 getrennt.
 
-**Ändert sich die Geschwindigkeit meines Anschlusses?**
-Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
+**Kann ich meinen Anschluss weiter nutzen?**
+Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
 
 **Wie günstig ist es mitzumachen?**
 Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 3 € im Jahr für Strom.
@@ -84,7 +84,7 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz, und jeder kann es erweitern. Über deinen Internet­anschluss verbunden kannst du der Öffentlichkeit eine **Grundversorgung an Internet** zur Verfügung zu stellen. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erweitern. Über deinen Internet­anschluss verbunden kannst du der Öffentlichkeit eine **Grundversorgung an Internet** zur Verfügung zu stellen. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
 Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du ihn über dein Internet anschließen. 
@@ -115,7 +115,7 @@ Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz l
     
 -- Schaubild --
 
-Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Also bist du mit deinem Freifunk-Router nicht der Anbieter und haftest auch nicht für die Daten der anderen!
+Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Freifunk-Router vermieden.
 
 
 ---

@@ -1,3 +1,8 @@
+7.0
+* Text: Kann ich meinen Anschluss weiter nutzen? Ja,... 
+* Text unter der Infografik kürzer: Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Freifunk-Router vermieden.
+* dadurch die Infografik größer
+
 6.0
 * Text: Ein unabhängiges Bürgernetz
 * freifunk Logo auf geflashten Routern in der grafik
