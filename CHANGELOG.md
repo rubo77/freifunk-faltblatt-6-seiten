@@ -1,9 +1,16 @@
-0.4
+6.0
+* Text: Ein unabhängiges Bürgernetz
+* freifunk Logo auf geflashten Routern in der grafik
+
+5.0
+* Infografik Dein statt Ihre
+
+4.0
 * Text „Freies Netz überall und für alle“
 * Wlan wird johne Störerhaftung.. enger zusammen
 * Router hinterm Fenster kleiner und kleine Router ausserhalb
 
-0.3
+3.0
 * Texte bearbeitet: 
  * "wobei Du selbst bestimmst, wieviel Du zur Verfügung stellst"
  * ca 3 €

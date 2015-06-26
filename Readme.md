@@ -47,7 +47,7 @@ getrennt.
 Nein, der Freifunk-Router nutzt nur einen Teil deiner ungenutzten Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
 
 **Wie günstig ist es mitzumachen?**
-Wie ein Kinobesuch mit Popcorn: Die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 3 € im Jahr für Strom.
+Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 3 € im Jahr für Strom.
 
 **Abschnitt 2: (Rückseite)**
 ---
@@ -72,7 +72,7 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein Bürgernetz, und jeder kann es erweitern. Über deinen Internet­anschluss verbunden kannst du der Öffentlichkeit eine **Grundversorgung an Internet** zur Verfügung zu stellen. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz, und jeder kann es erweitern. Über deinen Internet­anschluss verbunden kannst du der Öffentlichkeit eine **Grundversorgung an Internet** zur Verfügung zu stellen. Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
 Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du ihn über dein Internet anschließen. 
