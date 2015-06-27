@@ -51,9 +51,7 @@ Obere Reihe
 **Häufige Fragen**
 
 **Ist das sicher für mich?**
-Ja! Der Datenverkehr aus dem Freifunk-Netz ist   
-vollständig von dem eigenen Netz bzw. Computer   
-getrennt.
+Ja! Der Datenverkehr aus dem Freifunk-Netz ist vollständig vom eigenen Netz bzw. Com­pu­ter ge­trennt.
 
 **Kann ich meinen Anschluss weiter nutzen?**
 Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
