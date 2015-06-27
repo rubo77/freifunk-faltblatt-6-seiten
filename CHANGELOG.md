@@ -1,3 +1,8 @@
+8.0
+* "Freies Netz für alle" überarbeitet und Satzbaufehler behoben.
+* Blocksatz eingeführt
+* Abstände zum aussenrand vergrößert
+
 7.0
 * Text: Kann ich meinen Anschluss weiter nutzen? Ja,... 
 * Text unter der Infografik kürzer: Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Freifunk-Router vermieden.
