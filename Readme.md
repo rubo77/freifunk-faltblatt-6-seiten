@@ -110,11 +110,11 @@ untere Reihe:
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal per Verschlüsselungs-Tunnel (VPN) durchs Freifunk-Netz geleitet:
+Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal durch einen verschlüsselten Tunnel (VPN) zum Freifunk Gateway und von da erst ins Internet geleitet:
     
 -- Schaubild --
 
-Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Freifunk-Router vermieden.
+Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
 
 
 ---
