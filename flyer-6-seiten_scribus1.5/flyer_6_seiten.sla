@@ -83,7 +83,7 @@
             <SubLine Color="White" Shade="100" Dash="1" LineEnd="0" LineJoin="0" Width="0" Shortcut=""/>
         </MultiLine>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Hauptebene" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="9" OUTL="0" LAYERC="#000000"/>
-        <LAYERS NUMMER="11" LEVEL="1" NAME="hamburg.freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="11" LEVEL="1" NAME="hamburg.freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="8" LEVEL="2" NAME="freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="10" LEVEL="3" NAME="flensburg.freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="9" LEVEL="4" NAME="kiel.freifunk.net" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
