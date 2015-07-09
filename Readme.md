@@ -12,20 +12,36 @@ Im Ordner exports ist unter anderem eine svg version, die man z.B. mit Inkskape 
 
 
 # Drucken
-Das Layout ist ursprünglich angelegt worden für Flyer-Alarm, aber noch nicht getestet, ob diese das korrekt verarbeiten können (das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner).
 
-Wenn du den Flyer **selbst drucken** willst (ohne Duplex), dann kannst du einfach das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` benutzen. Dabei kann man die einseitig bedruckten Blätter so gedreht wieder in den Drucker einlegen, dass das erneute Bedrucken jeweils die passende Hälfte ergänzt und man so nur einen Schnitt in der Mitte braucht um 2 vollständige Faltblätter zu trennen.
+## als PDF exportieren
+Beim Exportieren darauf achten:
+* Allgemein: Höchste Auflösung ankreuzen und 600dpi Auflösung wählen (standard in Scribus ist 300dpi)
+* Schriftarten: "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
+
+## Flyer-Alarm
+Ich habe dies einmal drucken lassen, aber leider mit fehlenden Bindestrichen, sonst ist der Druck super geworden mit dem PDF aus v8.0. (das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner und alles Ist im richtigen Format erstellt.)
+
+## selbst drucken
+Ohne Duplex kannst du einfach das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` benutzen. Dabei kann man die einseitig bedruckten Blätter so gedreht wieder in den Drucker einlegen, dass das erneute Bedrucken jeweils die passende Hälfte ergänzt und man so nur einen Schnitt in der Mitte braucht um 2 vollständige Faltblätter zu trennen.
 
 ## Druckvorlage neu erzeugen mit Gimp:
-* in Gimp das pdf importieren mit 600dpi
+Um  das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` neu zu erzeugen befolge folgende Schritte:
+* in Gimp das pdf importieren **mit 600dpi**
 * Leinwandgrösse verdoppeln auf 4724 px
-* die 2. Ebene (Innenseiten) nach unten schieben
+* die 2. Ebene (Innenseiten) nach unten schieben (mit STRG gedrückt)
 * Die untere Ebene transformieren: um 180° drehen
 * Exportieren als pdf: `flyer_6_seiten_rueckseite_gedreht.pdf`
+
 ## Prewiew png erzeugen
 * in Gimp die untere Ebene wieder um 180° zurückdrehen
 * Bildgröße ändern: 72dpi, 992x670 px
 * exportieren als `flyer_6_seiten_preview.png`
+
+# Fonts installieren
+Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
+
+	sudo mkdir -p ~/.fonts/truetype/minionpro
+	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
 
 # Danksagungen
 Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
@@ -34,14 +50,8 @@ Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der 
  - https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0
  - Und Teile vom hamburger Flyer: http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf
 
-# Fonts installieren
-Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
 
-	sudo mkdir -p ~/.fonts/truetype/minionpro
-	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
-
-
-# Neuer Text:
+# Übersicht über den gesamten Text:
 
 Obere Reihe
 ----

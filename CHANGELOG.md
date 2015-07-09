@@ -1,3 +1,19 @@
+10.0
+* Frontseite:
+ * Antenne auf kleinem Haus größer und vor hellerem hintergrund
+ * freifunk logo als svg
+ * Bild in besserer Auflösung aus dem Moehne Flyer importiert
+* Himmel tiefer
+* "Wie kann ich mitmachen" weiter nach rechts
+* Hafte ich nicht...
+ * Abstand links größer
+ * dein Computer klein geschrieben
+ * alle texte in Layer über der Grafik
+* Mitmachen, Quelle nach unten
+
+9.0
+* Blocksatzfehler behoben
+
 8.0
 * "Freies Netz für alle" überarbeitet und Satzbaufehler behoben.
 * Blocksatz eingeführt
