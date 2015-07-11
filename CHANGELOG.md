@@ -1,3 +1,8 @@
+11.0
+* Rückseite (kiel) Positionierung des Textes weiter rechts
+* Version auf der Startseite entfernt und stattdessen auf der Rückseite ein Datum
+* kleine Korrekturen der Abstände überall
+
 10.0
 * Frontseite:
  * Antenne auf kleinem Haus größer und vor hellerem hintergrund

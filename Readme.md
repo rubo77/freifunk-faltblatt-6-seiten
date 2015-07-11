@@ -15,8 +15,10 @@ Im Ordner exports ist unter anderem eine svg version, die man z.B. mit Inkskape 
 
 ## als PDF exportieren
 Beim Exportieren darauf achten:
-* Allgemein: Höchste Auflösung ankreuzen und 600dpi Auflösung wählen (standard in Scribus ist 300dpi)
-* Schriftarten: "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
+* PDF-Version 1.5 auswählen
+* Etwaige Fehler wegen leeren Textrahmen ignorieren
+* Allgemein -> Höchste Auflösung ankreuzen und 600dpi Auflösung wählen (standard in Scribus ist 300dpi)
+* Schriftarten -> "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
 
 ## Flyer-Alarm
 Ich habe dies einmal drucken lassen, aber leider mit fehlenden Bindestrichen, sonst ist der Druck super geworden mit dem PDF aus v8.0. (das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner und alles Ist im richtigen Format erstellt.)
