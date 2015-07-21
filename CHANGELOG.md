@@ -1,3 +1,7 @@
+12.0 - 21.7.2015
+* Texte: Erweiterte Einstellungen angepasst
+* Textfarbe Magenta an Logo angeglichen
+
 11.0
 * Rückseite (kiel) Positionierung des Textes weiter rechts
 * Version auf der Startseite entfernt und stattdessen auf der Rückseite ein Datum
