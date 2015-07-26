@@ -1,4 +1,4 @@
-Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage ist für die Community Braunschweig angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
@@ -75,10 +75,7 @@ Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-R
 ---
 **Mitmachen - Austauschen**
 
-* Webseite      http://kiel.freifunk.net/
-* Online Chat   auf unserer Webseite!
-* Mail          freifunk@in-kiel.de
-* Twitter       @ff_kiel
+* je nach Community
 
 **Abschnitt 3 (Front)**
 ---
@@ -126,7 +123,8 @@ Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz l
     
 -- Schaubild --
 
-Fazit: Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
+Fazit:  
+Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
 
 
 ---
