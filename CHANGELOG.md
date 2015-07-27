@@ -1,3 +1,7 @@
+25.7.
+* Internet-Grundversorguung mit Bindestrich
+* unsichtbare Layer eingefügt für Schriftzüge anderer Communities (zum lagern)
+
 12.0 - 21.7.2015
 * Texte: Erweiterte Einstellungen angepasst
 * Textfarbe Magenta an Logo angeglichen
