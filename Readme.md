@@ -91,7 +91,7 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet Grundversorgung**.
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und jeder kann es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung**.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
