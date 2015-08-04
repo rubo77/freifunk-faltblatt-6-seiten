@@ -1,4 +1,4 @@
-Diese Vorlage ist für die Community Kiel angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage wird im Bälde für die Freifunk Community München angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
