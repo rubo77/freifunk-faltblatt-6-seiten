@@ -102,9 +102,9 @@ Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabh
 ---
 **Router für 15 €**
 
-1. Freifunk Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
-2. Freifunk-Software aufspielen (Anleitungen dazu ...)
-3. Freifunk-Router mit privatem Router verbinden.
+1. Kompatiblen Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
+2. Freifunk-Software aufspielen Anleitung: htttp://deine-community.freifunk.net
+3. Mit privatem Anschluss verbinden, falls kein Freifunk in Reichweite (optional)
 4. Freifunk-Router aufstellen (möglichst in Fensternähe)
 
 WLAN wird für jeden ohne Störerhaftung freigegeben!
