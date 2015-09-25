@@ -1,4 +1,4 @@
-Diese Vorlage ist für die Community ffnord angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage ist für die Community Dresden angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
@@ -55,36 +55,11 @@ Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der 
 
 # Übersicht über den gesamten Text:
 
-[Ausgelagert in das Dokument `CONTENT_de.md`](CONTENT_de.md)
-
----
-
-*Alter Abschnitt 8: (fiel weg bei 6 Abschnitten)*
----
-**Freifunk Netz vergrößern**
-
-Das war aber noch nicht alles! Sie können anderen Leuten von  
-Freifunk erzählen. Diese können Ihnen helfen das Freifunk-Netz zu  
-erweitern. Sie müssen nur einen Freifunk-Router in Reichweite zu Ihrem  
-jetzigen Router aufstellen, die beiden Geräte werden sich automatisch  
-verbinden (meshen) und so das Freifunk-Netz vergrößern.  
-So können sogar Orte mit Internet versorgt werden, die keinen eigenen  
-Anschluss besitzen. Ist in einer Kette von Routern auch nur ein  
-Internetanschluss vorhanden, kann dieser die gesamte Kette mit  
-Internet versorgen.  
-Wir erzählen es Ihnen durch diesen Flyer,  
-erzählen Sie es Ihren Freunden und Bekannten!  
-
-Ihr Haus / Ihr nächster Nachbar
+[`CONTENT_de.md`](CONTENT_de.md)
 
 
-*Alter Abschnitt 3 (hinten innen - fiel weg bei 6 Abschnitten)*
----
-**Warum Freifunk?**
+Lizenz
+------
+Die Inhalte sind in der Regel unter CC-BY-SA veröffentlicht. In Ausnahmen ist dies explizit angegeben!
 
-  * Kommunikation ist ein Grundbedürfnis,elektronische Kommunikation wird immer wichtiger
-  * Freifunk ist dezentral, starte es von jedem Ort aus
-  * Soziale Einrichtungen können profitieren.  
-  * schafft Gemeinschaft  
-  * Freifunk auch dann,wenn der Anbieter streikt
-  
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
