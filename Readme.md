@@ -21,7 +21,7 @@ Beim Exportieren darauf achten:
 * Schriftarten -> "Outline all fonts" **sonst fehlen bei Flyer Alarm die Bindestriche!!!**
 
 ## Flyer-Alarm
-Ich habe dies einmal drucken lassen, aber leider mit fehlenden Bindestrichen, sonst ist der Druck super geworden mit dem PDF aus v8.0. (das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner und alles Ist im richtigen Format erstellt.)
+Ich habe diesen Flyer erfolgreich 5000x bei Flyer-Alarm drucken lassen auf [170g Recycling-Papier ohne Veredelung](https://www.flyeralarm.com/de/shop/configurator/index/id/88/faltblaetter-wickelfalz.html#404=1527&405=1534&406=1529&407=4483&408=1550&409=1532&410=1533). Der Druck ist super geworden mit dem [flyer_6_seiten.pdf](https://github.com/rubo77/freifunk-faltblatt-6-seiten/blob/ffki/flyer_6_seiten.pdf). (Das Anforderungs-PDF von Flyer Alarm ist im Entwicklungsordner und alles Ist im richtigen Format erstellt.)
 
 ## selbst drucken
 Ohne Duplex kannst du einfach das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` benutzen. Dabei kann man die einseitig bedruckten Blätter so gedreht wieder in den Drucker einlegen, dass das erneute Bedrucken jeweils die passende Hälfte ergänzt und man so nur einen Schnitt in der Mitte braucht um 2 vollständige Faltblätter zu trennen.
