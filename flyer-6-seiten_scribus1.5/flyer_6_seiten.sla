@@ -684,7 +684,7 @@
                 <ITEXT CH="freifun"/>
                 <ITEXT SCALEH="100" KERN="0" CH="k"/>
                 <ITEXT SCALEH="100" KERN="3" CH="@"/>
-                <ITEXT KERN="3" CH="i"/>
+                <ITEXT KERN="3" CH="lists.i"/>
                 <ITEXT CH="n-kiel.de (öffentlich)"/>
                 <trail/>
             </StoryText>
