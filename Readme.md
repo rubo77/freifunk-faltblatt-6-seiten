@@ -1,14 +1,14 @@
-Diese Vorlage ist für die Community Dresden angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+Diese Vorlage ist für die Community Freifunk Nord angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
 
-Die Quell-Datei ist `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla`, für die Bearbeitung ist **Scribus 1.5** nötig (hier benutze Version: 1.5.1), dies ist unter Debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
+Die Quell-Datei ist `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla`, für die Bearbeitung ist **Scribus 1.5** nötig (hier benutze Version: 1.5.2), dies ist unter Debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
 
 Um das Layout anzupassen muss nur der Titel auf der Frontseite geändert werden und die Rückseite. Alle anderen Seiten sind Community-unspezifish und können so bleiben wie sie sind.
 
 Alle Quellen für den Flyer sind im Repository enthalten, also könnt ihr auch einfach weitere Änderungen einbauen.
-Im Ordner exports ist unter anderem eine svg version, die man z.B. mit Inkskape weiterbearbeiten kann.
+Im Ordner `exports` ist unter anderem eine svg version, die man z.B. mit Inkskape weiterbearbeiten kann.
 
 
 # Drucken
@@ -29,7 +29,7 @@ Ohne Duplex kannst du einfach das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` be
 ## Druckvorlage neu erzeugen mit Gimp:
 Um  das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` neu zu erzeugen befolge folgende Schritte:
 * in Gimp das pdf importieren **mit 600dpi**
-* Leinwandgrösse verdoppeln auf 4724 px
+* Leinwandgrösse verdoppeln (also bei original 2362 px Höhe auf 4724 px)
 * die 2. Ebene (Innenseiten) nach unten schieben (mit STRG gedrückt)
 * Die untere Ebene transformieren: um 180° drehen
 * Exportieren als pdf: `flyer_6_seiten_rueckseite_gedreht.pdf`
