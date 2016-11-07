@@ -1,2 +1,3 @@
 *.autosave
 nohup.out
+*_autosave_*.sla
