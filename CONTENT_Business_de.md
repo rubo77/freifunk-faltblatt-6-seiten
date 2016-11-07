@@ -7,14 +7,14 @@ Obere Reihe
 ---
 **Häufige Fragen**
 
-**Bleibt mein eigenes Netz geschützt?**
-Ja! Freifunk-Gäste bekommen keinen Zugriff auf dein eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
+**Bleibt unser eigenes Netz geschützt?**
+Ja! Freifunk-Gäste bekommen keinen Zugriff auf Ihr eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
 
-**Kann ich meinen Anschluss weiter nutzen?**
-Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
+**Kann ich unseren Anschluss weiter nutzen?**
+Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei Sie selbst bestimmen, wieviel maximal zur Verfügung stehen soll.
 
 **Wie günstig ist es mitzumachen?**
-Wie ein Kinobesuch mit Popcorn: die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 3 € im Jahr für Strom.
+Es fallen keine Monatlichen Gebühren an, nur die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 4 € im Jahr für Strom.
 
 **Abschnitt 2: (Rückseite)**
 ---
@@ -33,14 +33,14 @@ Untere Reihe
 
 **Abschnitt 4: (erste Seite innen)**
 ---
-**„Freies Netz überall und für alle“**
+**Freies Netz für Ihre Gäste**
 
-**Was ermöglicht das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und wir alle können es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung.**
+**Was ist das Freifunk-Netz?**
+Mit der Teilnahme unterstützen Sie ein unabhängiges Bürgernetz und bauen es aktiv aus. Sie ermöglichen Ihren Kunden einen einfachen und freien Netz-Zugang.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
-**Wie funktioniert Freifunk?**
-Freifunk-Router in Reichweite verbinden sich auto­matisch zu einem großen, unabhängigen WLAN-Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du deinen Freifunk-Router über dein Internet an­schließen.
+**Kostenlose und zukunftsweisende Technologie**
+Freifunk-Geräte vernetzen sich automatisch miteinander. Dies ermöglicht eine einfache Versorgung großer Räume. Ihr eigenes Netz ist sicher vom Freifunk-Netz abgeschirmt.
 
 
 **Abschnitt 5:**
@@ -50,13 +50,13 @@ Freifunk-Router in Reichweite verbinden sich auto­matisch zu einem großen, una
 1. Kompatiblen Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 20€ TL-WR842N
 2. Freifunk-Software aufspielen Anleitung: htttp://deine-community.freifunk.net
 3. Freifunk-Router aufstellen (möglichst in Fensternähe)  
-   Optional: mit deinem Internetanschluss verbinden
+   Am Besten mit Ihrem Internetanschluss verbinden
 
-WLAN wird für Gäste ohne Störerhaftung freigegeben!
+WLAN wird für Gäste ohne Haftungsrisiko freigegeben!
 
 untere Reihe:
 
-  * Privater Internetanschluss 
+  * Ihr Internetanschluss 
   * Freifunk-Router
 
 
@@ -64,11 +64,17 @@ untere Reihe:
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal durch einen verschlüsselten Tunnel (VPN) zum Freifunk Gateway und von da erst ins Internet geleitet:
+Gäste werden sicher über einen verschlüsselten Tunnel (VPN) ins Internet geleitet. Gäste surfen dadurch nicht mit Ihrer Identität - eine Rückverfolgbarkeit auf Ihren Anschluss wird vermieden: 
 
     
 -- Schaubild --
 
-Fazit:
-Gäste deines Freifunk-Netzes surfen nicht mit dei-ner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
+- Ihre Gäste
+- Ihr Internetanschluss
+- Freifunk Router
+- WLAN Gäste
+- Freifunk Server
+
+
+
 
