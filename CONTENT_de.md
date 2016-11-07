@@ -35,19 +35,19 @@ Untere Reihe
 ---
 **„Freies Netz überall und für alle“**
 
-**Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und alle können es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung**.
+**Was ermöglicht das Freifunk-Netz?**
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und wir alle können es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung.**
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
-Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du deinen Freifunk-Router über dein Internet an­schließen.
+Freifunk-Router in Reichweite verbinden sich auto­matisch zu einem großen, unabhängigen WLAN-Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du deinen Freifunk-Router über dein Internet an­schließen.
 
 
 **Abschnitt 5:**
 ---
-**Router für 15 €**
+**Router für 20 €**
 
-1. Kompatiblen Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 15€  
+1. Kompatiblen Router besorgen (nur bestimmte Modelle) - Einstiegsmodell ca. 20€ TL-WR842N
 2. Freifunk-Software aufspielen Anleitung: htttp://deine-community.freifunk.net
 3. Freifunk-Router aufstellen (möglichst in Fensternähe)  
    Optional: mit deinem Internetanschluss verbinden
@@ -58,15 +58,17 @@ untere Reihe:
 
   * Privater Internetanschluss 
   * Freifunk-Router
-  * Fenster
+
 
 **Abschnitt 6:**
 ---
 **Hafte ich nicht für die Freigabe?**
 
 Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal durch einen verschlüsselten Tunnel (VPN) zum Freifunk Gateway und von da erst ins Internet geleitet:
+
     
 -- Schaubild --
 
-Fazit:  
-Gäste deines Freifunk-Netzes surfen nicht mit deiner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
+Fazit:
+Gäste deines Freifunk-Netzes surfen nicht mit dei-ner Identität. Durch diese Anonymisierung wird die Rückverfolgbarkeit auf deinen Anschluss vermieden.
+
