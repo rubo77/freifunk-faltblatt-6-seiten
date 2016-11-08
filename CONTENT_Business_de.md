@@ -64,7 +64,7 @@ untere Reihe:
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Gäste werden sicher über einen verschlüsselten Tunnel (VPN) ins Internet geleitet. Gäste surfen dadurch nicht mit Ihrer Identität - eine Rückverfolgbarkeit auf Ihren Anschluss wird vermieden: 
+Gäste werden sicher über einen verschlüsselten Tunnel (VPN) ins Internet geleitet und surfen dadurch nicht mit Ihrer Identität. So wird eine Rück-verfolgbarkeit auf Ihren Anschluss vermieden:
 
     
 -- Schaubild --
