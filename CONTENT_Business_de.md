@@ -11,7 +11,7 @@ Obere Reihe
 Ja! Freifunk-Gäste bekommen keinen Zugriff auf Ihr eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
 
 **Kann ich unseren Anschluss weiter nutzen?**
-Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei Sie selbst bestimmen, wieviel maximal zur Verfügung stehen soll.
+Ja, der Freifunk-Router nutzt nur einen einstellbaren Teil deiner Bandbreite, wobei Sie selbst bestimmen, wieviel maximal zur Verfügung stehen soll.
 
 **Wie günstig ist es mitzumachen?**
 Es fallen keine Monatlichen Gebühren an, nur die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 4 € im Jahr für Strom.
@@ -36,7 +36,7 @@ Untere Reihe
 **Freies Netz für Ihre Gäste**
 
 **Was ist das Freifunk-Netz?**
-Mit der Teilnahme unterstützen Sie ein unabhängiges Bürgernetz und bauen es aktiv aus. Sie ermöglichen Ihren Kunden einen einfachen und freien Netz-Zugang.
+Mit der Teilnahme unterstützen Sie ein unabhängiges Bürgernetz und bauen es aktiv aus. Sie ermöglichen Ihren Gästen einen einfachen und freien Netz-Zugang.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Kostenlose und zukunftsweisende Technologie**
