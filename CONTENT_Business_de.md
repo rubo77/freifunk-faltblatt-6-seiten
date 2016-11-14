@@ -3,7 +3,7 @@
 Obere Reihe
 ----
 
-**Abschnitt 1 (hinten innen)** 
+**Abschnitt 1 (hinten innen)**
 ---
 **Häufige Fragen**
 
@@ -11,7 +11,7 @@ Obere Reihe
 Ja! Freifunk-Gäste bekommen keinen Zugriff auf Ihr eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
 
 **Kann ich unseren Anschluss weiter nutzen?**
-Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei Sie selbst bestimmen, wieviel maximal zur Verfügung stehen soll.
+Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil der Bandbreite, wobei Sie selbst bestimmen, wieviel maximal zur Verfügung stehen soll.
 
 **Wie günstig ist es mitzumachen?**
 Es fallen keine Monatlichen Gebühren an, nur die Kosten für die Anschaf­fung des Freifunk-Routers plus ca. 4 € im Jahr für Strom.
@@ -35,12 +35,12 @@ Untere Reihe
 ---
 **Freies Netz für Ihre Gäste**
 
-**Was ist das Freifunk-Netz?**
-Mit der Teilnahme unterstützen Sie ein unabhängiges Bürgernetz und bauen es aktiv aus. Sie ermöglichen Ihren Kunden einen einfachen und freien Netz-Zugang.
+**Was ermöglicht das Freifunk-Netz?**
+Mit der Teilnahme unterstützen Sie ein unabhängiges Bürgernetz und bauen es aktiv aus. Sie ermöglichen Ihren Gästen einen einfachen und freien Netz-Zugang.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
-**Kostenlose und zukunftsweisende Technologie**
-Freifunk-Geräte vernetzen sich automatisch miteinander. Dies ermöglicht eine einfache Versorgung großer Räume. Ihr eigenes Netz ist sicher vom Freifunk-Netz abgeschirmt.
+**Zukunftsweisende Technologie**
+Freifunk-Geräte vernetzen sich automatisch miteinander. Dies ermöglicht eine optimale WLAN-Versorgung großer Räume. Ihr eigenes Netz ist dabei sicher vom Freifunk-Netz abgeschirmt.
 
 
 **Abschnitt 5:**
@@ -56,7 +56,7 @@ WLAN wird für Gäste ohne Haftungsrisiko freigegeben!
 
 untere Reihe:
 
-  * Ihr Internetanschluss 
+  * Ihr Internetanschluss
   * Freifunk-Router
 
 
@@ -66,7 +66,7 @@ untere Reihe:
 
 Gäste werden sicher über einen verschlüsselten Tunnel (VPN) ins Internet geleitet und surfen dadurch nicht mit Ihrer Identität. So wird eine Rück-verfolgbarkeit auf Ihren Anschluss vermieden:
 
-    
+
 -- Schaubild --
 
 - Ihre Gäste
@@ -74,7 +74,3 @@ Gäste werden sicher über einen verschlüsselten Tunnel (VPN) ins Internet gele
 - Freifunk Router
 - WLAN Gäste
 - Freifunk Server
-
-
-
-
