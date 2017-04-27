@@ -52,7 +52,7 @@ Freifunk-Geräte vernetzen sich automatisch miteinander. Dies ermöglicht eine o
 3. Freifunk-Router aufstellen (möglichst in Fensternähe)  
    Am Besten mit Ihrem Internetanschluss verbinden
 
-WLAN wird für Gäste ohne Haftungsrisiko freigegeben!
+WLAN auf sichere Weise für Gäste freigegeben!
 
 untere Reihe:
 
