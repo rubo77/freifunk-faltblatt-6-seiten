@@ -1,4 +1,16 @@
+
+![](flyer_6_seiten_preview.png)
+
 Diese Vorlage ist für die Community X angepasst, aber Ihr könnt sie gerne für eure Zwecke benutzen.
+
+# Dateien in diesem Repository
+
+- `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla` - die Quelldatei für Scribus mit allen Ebenen für diverse Communities und zwei Text-Varianten (Du- und Sie-Form)
+- `CONTENT_Business_de.md` - Die Texte in dem Flyer in der Sie-Form (als text, zum kopieren)
+- `CONTENT_de.md` - Die alternativen Texte in der Du-Form
+- `flyer_6_seiten.pdf` - fertige Druckvorlage für Flyer-Alarm
+- `flyer_6_seiten_rueckseite_gedreht.pdf` - Druckvorlage zum selber ausdrucken auf DIN-A4
+- `flyer_6_seiten_rueckseite_gedreht.xcf` - Druckvorlage zum bearbeiten mit Gimp
 
 # Anpassen an deine Community
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
