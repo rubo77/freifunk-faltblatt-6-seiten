@@ -101,7 +101,7 @@
         <LAYERS NUMMER="16" LEVEL="5" NAME="community:dresden" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="17" LEVEL="6" NAME="community:freifunk-hemer.de" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="19" LEVEL="7" NAME="community:goettingen" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
-        <LAYERS NUMMER="9" LEVEL="8" NAME="community:kiel.freifunk.net" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="9" LEVEL="8" NAME="community:kiel.freifunk.net" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="21" LEVEL="9" NAME="community:malente.freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="18" LEVEL="10" NAME="community:nord.freifunk.net" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#fff239"/>
         <LAYERS NUMMER="22" LEVEL="11" NAME="community:freemesh denmark" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
@@ -111,14 +111,14 @@
         <LAYERS NUMMER="14" LEVEL="15" NAME="Frontseite Community Schriftzüge" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="5" LEVEL="16" NAME="Himmel vorn" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
         <LAYERS NUMMER="15" LEVEL="17" NAME="hafte ich" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
-        <LAYERS NUMMER="24" LEVEL="19" NAME="t:hafte ich (business)" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
-        <LAYERS NUMMER="23" LEVEL="23" NAME="t:Hauptebene (business)" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="24" LEVEL="19" NAME="t:hafte ich (business)" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <LAYERS NUMMER="23" LEVEL="23" NAME="t:Hauptebene (business)" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="0" LEVEL="24" NAME="t:Hauptebene" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="3" LEVEL="25" NAME="gras hinten" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <LAYERS NUMMER="6" LEVEL="26" NAME="pfalzstriche" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="0.5" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
         <LAYERS NUMMER="1" LEVEL="22" NAME="t:Wie kann ich mitmachen Texte" SICHTBAR="0" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
-        <LAYERS NUMMER="25" LEVEL="21" NAME="t:Wie kann ich mitmachen (business)" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
-        <LAYERS NUMMER="27" LEVEL="27" NAME="t:stand" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="25" LEVEL="21" NAME="t:Wie kann ich mitmachen (business)" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="27" LEVEL="27" NAME="t:stand" SICHTBAR="1" DRUCKEN="0" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
         <LAYERS NUMMER="28" LEVEL="20" NAME="Wie kann ich mitmachen? Grafik" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <LAYERS NUMMER="29" LEVEL="18" NAME="hafte ich Infografik" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="20.0012598425197" markOffset="0" BleedTop="2.83464566929134" BleedLeft="2.83464566929134" BleedRight="2.83464566929134" BleedBottom="2.83464566929134" printer="Canon-MX720-series" filename="" separationName="Alle" printerCommand="">
