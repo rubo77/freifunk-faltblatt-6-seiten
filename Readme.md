@@ -13,8 +13,16 @@ Diese Vorlage ist für die Community X angepasst, aber Ihr könnt sie gerne für
 - `flyer_6_seiten_rueckseite_gedreht.xcf` - Druckvorlage zum bearbeiten mit Gimp
 
 # Anpassen an deine Community
-Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen. 
+Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen.
 
+## Fonts installieren
+Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
+
+    sudo su
+    mkdir -p ~/.fonts/truetype/
+    cp flyer-6-seiten_scribus1.5/fonts/*.ttf ~/.fonts/truetype/
+
+## Bearbeiten mit Scribus
 Die Quell-Datei ist `flyer-6-seiten_scribus1.5/flyer_6_seiten.sla`, für die Bearbeitung ist **Scribus 1.5** nötig (hier benutze Version: 1.5.3), dies ist unter Debian in dem paket `scribus-trunk` erhältlich, das man sich aus einem ppa installieren muss, siehe http://askubuntu.com/questions/639070
 
 Um das Layout anzupassen muss nur der Titel auf der Frontseite geändert werden und die Rückseite. Alle anderen Seiten sind Community-unspezifish und können so bleiben wie sie sind.
@@ -51,16 +59,10 @@ Um  das PDF `flyer_6_seiten_rueckseite_gedreht.pdf` neu zu erzeugen befolge folg
 * Bildgröße ändern: 72dpi, 992x670 px
 * exportieren als `flyer_6_seiten_preview.png`
 
-# Fonts installieren
-Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
-
-	sudo mkdir -p ~/.fonts/truetype/minionpro
-	sudo cp quellen/FF_Flyer_8seiter.indd/FF_Flyer_8seiter\ Ordner/Document\ fonts/MinionPro-Regular.otf ~/.fonts/truetype/minionpro/
-
 # Danksagungen
-Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der hier veröffentlicht wurde: 
+Dieser Flyer ist entstanden aus einem gekürzten Text aus dem Möhne Flyer, der hier veröffentlicht wurde:
 
- - https://forum.freifunk.net/t/pocket-flyer-8-seiter-jetzt-auf-betterplace-spenden/1005 
+ - https://forum.freifunk.net/t/pocket-flyer-8-seiter-jetzt-auf-betterplace-spenden/1005
  - https://www.dropbox.com/s/kwytvedboxhw8h7/Flyer_8seiter_moehne_Druck.pdf?dl=0
  - Und Teile vom hamburger Flyer: http://www.vonbroeckel.de/download/flyer.ffhh.v08.pdf
 
