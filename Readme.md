@@ -16,7 +16,12 @@ Diese Vorlage ist für die Community X angepasst, aber Ihr könnt sie gerne für
 Um dieses Faltblatt anzupassen einfach dieses Git Repository klonen und die Frontseite und Rückseite anpassen.
 
 ## Fonts installieren
-Die benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
+Das Paket `ttf-mscorefonts-installer` installiert den Font Arial:
+
+    sudo apt-get install ttf-mscorefonts-installer
+    sudo fc-cache
+
+Die weiteren benötigten Fonts sind im Ordner `/flyer-6-seiten_scribus1.5/fonts`, in Linux kann man fonts installieren, z.b. mit:
 
     sudo su
     mkdir -p ~/.fonts/truetype/
