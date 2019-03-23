@@ -8,7 +8,7 @@ Obere Reihe
 **Häufige Fragen**
 
 **Bleibt mein eigenes Netz geschützt?**
-Ja! Freifunk-Gäste bekommen keinen Zugriff auf dein eigenes Netz, sondern werden direkt ins Internet weiter geleitet.
+Ja! Freifunk-Gäste bekommen keinen Zugriff auf dein eigenes Netz, sondern werden direkt ins Internet weitergeleitet.
 
 **Kann ich meinen Anschluss weiter nutzen?**
 Ja, der Freifunk-Router nutzt nur einen einstell­baren Teil deiner Bandbreite, wobei du selbst bestimmst, wieviel du zur Verfügung stellst.
@@ -64,7 +64,7 @@ untere Reihe:
 ---
 **Hafte ich nicht für die Freigabe?**
 
-Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal durch einen verschlüsselten Tunnel (VPN) zum Freifunk Gateway und von da erst ins Internet geleitet:
+Wenn Gäste über deinen Freifunk-Router ins Internet gehen, werden diese ganz legal durch einen verschlüsselten Tunnel (VPN) zum Freifunk-Gateway und von da erst ins Internet geleitet:
     
 -- Schaubild --
 
