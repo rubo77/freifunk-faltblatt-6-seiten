@@ -36,11 +36,11 @@ Untere Reihe
 **„Freies Netz überall und für alle“**
 
 **Was bietet das Freifunk-Netz?**
-Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und alle können es erwei­tern. Ist dein Freifunk-Router an deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung**.
+Freie digitale Kommu­nikation! Dezentralität! Ein unabhängiges Bürgernetz – und alle können es erwei­tern. Ist dein Freifunk-Router mit deinem  Inter­net­anschluss ver­bunden, sorgst du damit für eine öffentliche **Internet-Grundversorgung**.
 Freifunk ist eine Geste der Gast­freund­schaft, ein digitales Glas Wasser für jeden.
 
 **Wie funktioniert Freifunk?**
-Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du deinen Freifunk-Router über dein Internet an­schließen.
+Freifunk-Router in Reichweite verbinden sich automatisch zu einem großen, unabhängigen WLAN-Netz. Falls du noch kein Freifunk in Reich­weite hast, kannst du deinen Freifunk-Router über dein Internet an­schließen.
 
 
 **Abschnitt 5:**
